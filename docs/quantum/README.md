@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weekly Schedule
-parent: Comet 101
+parent: About the Group
 nav_order: 0
 ---
 

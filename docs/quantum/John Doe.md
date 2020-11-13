@@ -8,7 +8,9 @@ nav_order: 6
 ## Jane Doe information
 
 ### Intertests:
-
+  Quantum
+  HPC
+  Machine learning
 ### Publication:
 
 ### etc.

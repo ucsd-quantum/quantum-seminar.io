@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: SDSC-101-Dev
 description: SDSC-101 Dev branch
-baseurl: "/dev.io" # the subpath of your site, e.g. /blog
+baseurl: "/quantum-seminar.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
